@@ -16,7 +16,6 @@ class MetroTeaParsing:
     @staticmethod
     def get_html_content(url):
         response = requests.get(url)
-        print("STATUS", response)
         return response.text
 
     def get_all_tea_links(self):
