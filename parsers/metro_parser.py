@@ -8,23 +8,23 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 
 
-class MetroTeaParsing:
-    def __init__(self, base_url, tea_url):
-        self.base_url = base_url
-        self.tea_url = tea_url
+class MetroParsing:
+    def __init__(self, url):
+        self.base_url = "https://online.metro-cc.ru"
+        self.url = url
 
     @staticmethod
     def get_html_content(url):
         response = requests.get(url)
         return response.text
 
-    def get_all_tea_links(self):
+    def get_all_links(self, file_name: str):
         all_links = []
         page = 1
 
         while True:
 
-            page_url = f"{self.tea_url}?page={page}&in_stock=1"
+            page_url = f"{self.url}?page={page}&in_stock=1"
             html_content = self.get_html_content(page_url)
             soup = BeautifulSoup(html_content, "html.parser")
 
@@ -39,12 +39,12 @@ class MetroTeaParsing:
 
             page += 1
         base_directory = Path(__file__).parent.parent
-        with open(f"{base_directory}/files/links.json", "w") as file:
+        with open(f"{base_directory}/files/{file_name}", "w") as file:
             json.dump({"links": all_links}, file, indent=4)
 
         return all_links
 
-    def get_tea_info(self, urls):
+    def get_info(self, urls):
         chrome_options = Options()
         chrome_options.add_argument("--headless")
         driver = webdriver.Chrome(options=chrome_options)
@@ -110,7 +110,3 @@ class MetroTeaParsing:
             driver.quit()
 
 
-parser = MetroTeaParsing(
-    "https://online.metro-cc.ru",
-    "https://online.metro-cc.ru/category/chaj-kofe-kakao/chay",
-)
