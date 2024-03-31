@@ -2,4 +2,4 @@
 --------
 https://online.metro-cc.ru/category/chaj-kofe-kakao
 
-Использованы такие инструменты как selenuim, bs4, requests
+Использованы такие инструменты как selenium, bs4, requests
