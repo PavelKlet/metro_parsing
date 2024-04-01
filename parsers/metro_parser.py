@@ -17,8 +17,8 @@ class MetroParsing:
         self.url = url
 
         chrome_options = Options()
-        # chrome_options.add_argument("--headless")
-        self.driver = webdriver.Chrome() #options=chrome_options)
+        chrome_options.add_argument("--headless")
+        self.driver = webdriver.Chrome(options=chrome_options)
         self.wait = WebDriverWait(self.driver, 10)
 
     def get_html_content(self, url):
