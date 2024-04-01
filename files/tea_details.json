@@ -208,11 +208,19 @@
         "бренд": "GREENFIELD"
     },
     {
+        "ссылка на продукт": "https://online.metro-cc.ru/products/1672g-chay-greenfield-nabor-24-vida",
+        "актуальная цена": "749",
+        "старая цена": "без промо",
+        "артикул": "228229",
+        "название": "Чай Greenfield набор 24 вида, 167г",
+        "бренд": "GREENFIELD"
+    },
+    {
         "ссылка на продукт": "https://online.metro-cc.ru/products/rioba-zelenyj-molochnyj-oolong-20x2g",
         "актуальная цена": "269",
         "старая цена": "319",
         "артикул": "407590",
-        "название": "RIOBA Чай зеленый Молочный оолонг (2г х 20шт), 40г",
+        "название": "RIOBA Чай красный Молочный оолонг (2г х 20шт), 40г",
         "бренд": "RIOBA"
     },
     {
@@ -440,14 +448,6 @@
         "бренд": "NEWBY"
     },
     {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/100g-azerchaj-buket-chern-bajhovyj-kar-up",
-        "актуальная цена": "125",
-        "старая цена": "132",
-        "артикул": "120706",
-        "название": "Чай Азерчай Букет черный байховый, 100г",
-        "бренд": "АЗЕРЧАЙ"
-    },
-    {
         "ссылка на продукт": "https://online.metro-cc.ru/products/rioba-chernyj-erl-grej-400g",
         "актуальная цена": "489",
         "старая цена": "559",
@@ -488,14 +488,6 @@
         "бренд": "AKBAR"
     },
     {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/1000x18g-aro-chernyj-pak",
-        "актуальная цена": "1179",
-        "старая цена": "без промо",
-        "артикул": "117264",
-        "название": "aro Чай черный пакетированный (1.8г х 1000шт), 1.8кг",
-        "бренд": "ARO"
-    },
-    {
         "ссылка на продукт": "https://online.metro-cc.ru/products/greenfield-fruktovo-yagodno-travyanoj-summer-bouquet-25x2g",
         "актуальная цена": "89.9",
         "старая цена": "109",
@@ -518,14 +510,6 @@
         "артикул": "468829",
         "название": "Чай Greenfield Golden Ceylon черный (2г х 25 пак), 50г",
         "бренд": "GREENFIELD"
-    },
-    {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/100g-chay-chernyy-richman-erl-grey-krupnyy-list",
-        "актуальная цена": "179",
-        "старая цена": "207",
-        "артикул": "225337",
-        "название": "Чай черный Richman Earl Grey крупный лист, 100г",
-        "бренд": "RICHMAN"
     },
     {
         "ссылка на продукт": "https://online.metro-cc.ru/products/ahmad-tea-zelenyj-listovoj-200g",
@@ -648,12 +632,12 @@
         "бренд": "GREENFIELD"
     },
     {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/100h2g-chay-azerchay-chyornyy-s-chabretsom-paketirovannyy",
-        "актуальная цена": "209",
-        "старая цена": "249",
-        "артикул": "208706",
-        "название": "Чай Азерчай черный с чабрецом (2г x 100шт), 200г",
-        "бренд": "АЗЕРЧАЙ"
+        "ссылка на продукт": "https://online.metro-cc.ru/products/tess-kenya-chernyj-bajhovyj-100-2g",
+        "актуальная цена": "249",
+        "старая цена": "359",
+        "артикул": "632941",
+        "название": "Чай Tess Kenya черный байховый (2г x 100шт), 200г",
+        "бренд": "TESS"
     },
     {
         "ссылка на продукт": "https://online.metro-cc.ru/products/rioba-zelenyj-bajhovyj-dlya-zavarivaniya-v-chajnike-molochnyj-ulun-20-5g",
@@ -792,6 +776,14 @@
         "бренд": "CURTIS"
     },
     {
+        "ссылка на продукт": "https://online.metro-cc.ru/products/maitre-assorti-exslusive-collection-12-vkusov-v-sashe-60-pak",
+        "актуальная цена": "369",
+        "старая цена": "без промо",
+        "артикул": "646226",
+        "название": "Чай Maitre de The ассорти Exсlusive Collection 12 вкусов, 120г",
+        "бренд": "MAITRE DE THE"
+    },
+    {
         "ссылка на продукт": "https://online.metro-cc.ru/products/25shth17g-chay-chyornyy-curtis-elegant-earl-grey-paketirovan",
         "актуальная цена": "79.9",
         "старая цена": "99",
@@ -830,14 +822,6 @@
         "артикул": "204643",
         "название": "Чай Richard Royal Blackcurrant & Golden Apple (1.7г x 25шт), 43г",
         "бренд": "RICHARD"
-    },
-    {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/chay-chernyy-azerchay-buket-listovoy-1kg",
-        "актуальная цена": "1229",
-        "старая цена": "1",
-        "артикул": "239430",
-        "название": "Чай черный Азерчай букет листовой, 1кг",
-        "бренд": "АЗЕРЧАЙ"
     },
     {
         "ссылка на продукт": "https://online.metro-cc.ru/products/ahmad-tea-chernyj-classic-black-tea-100-2g",
@@ -992,6 +976,14 @@
         "бренд": "BASILUR"
     },
     {
+        "ссылка на продукт": "https://online.metro-cc.ru/products/master-team-standart-704-chernyj-bajhovyj-cejlonskij-vysshego-sorta-800gr",
+        "актуальная цена": "959",
+        "старая цена": "без промо",
+        "артикул": "602050",
+        "название": "Чай Master Team черный байховый крупнолистовой, 800г",
+        "бренд": "MASTER TEAM"
+    },
+    {
         "ссылка на продукт": "https://online.metro-cc.ru/products/art_578788",
         "актуальная цена": "209",
         "старая цена": "234",
@@ -1072,14 +1064,6 @@
         "бренд": "GREENFIELD"
     },
     {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/majskij-chernyj-korona-rossijskoj-imperii-100-pak-395514",
-        "актуальная цена": "189",
-        "старая цена": "226",
-        "артикул": "395514",
-        "название": "Чай Майский Корона Российской Империи черный цейлонский крупнолистовой (2г х 100 шт), 200г",
-        "бренд": "МАЙСКИЙ"
-    },
-    {
         "ссылка на продукт": "https://online.metro-cc.ru/products/25h17g-chay-richard-chyornyy-persik-myata-paketirovannyy",
         "актуальная цена": "99.9",
         "старая цена": "111",
@@ -1109,14 +1093,6 @@
         "старая цена": "без промо",
         "артикул": "494569",
         "название": "Чай Tess Sunrise черный листовой, 200г",
-        "бренд": "TESS"
-    },
-    {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/tess-assorti-iz-12-vkusov-v-kartonnoj-korobke-v-sashe-60-pak",
-        "актуальная цена": "519",
-        "старая цена": "без промо",
-        "артикул": "566113",
-        "название": "Чай Tess ассорти из 12 вкусов 60шт, 102г",
         "бренд": "TESS"
     },
     {
@@ -1232,14 +1208,6 @@
         "бренд": "CURTIS"
     },
     {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/25shth15g-chay-chyornyy-curtis-tender-moments-paketirovannyy",
-        "актуальная цена": "79.9",
-        "старая цена": "99",
-        "артикул": "239371",
-        "название": "Чай черный Curtis Tender Moments пакетированный (1.5г x 25шт), 37.5г",
-        "бренд": "CURTIS"
-    },
-    {
         "ссылка на продукт": "https://online.metro-cc.ru/products/40g-altajvita-travyanoj-solnechyj-den",
         "актуальная цена": "169",
         "старая цена": "181",
@@ -1270,14 +1238,6 @@
         "артикул": "207164",
         "название": "Сокочай Befruitbe зеленый ананас-клубника-мята, 130г",
         "бренд": "BEFRUITBE"
-    },
-    {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/100shth15g-chay-chyornyy-curtis-tender-moments-paketirovannyy",
-        "актуальная цена": "259",
-        "старая цена": "289",
-        "артикул": "239374",
-        "название": "Чай черный Curtis Tender Moments пакетированный (1.5г x 100шт), 150г",
-        "бренд": "CURTIS"
     },
     {
         "ссылка на продукт": "https://online.metro-cc.ru/products/100shth2g-chay-chyornyy-lisma-krepkiy-paketirovannyy",
@@ -1424,12 +1384,28 @@
         "бренд": "ALTHAUS"
     },
     {
+        "ссылка на продукт": "https://online.metro-cc.ru/products/100g-chyornyj-drakon-molochnyj-ulun",
+        "актуальная цена": "244",
+        "старая цена": "без промо",
+        "артикул": "121855",
+        "название": "Чай Чёрный дракон молочный улун, 100г",
+        "бренд": "ЧЁРНЫЙ ДРАКОН"
+    },
+    {
         "ссылка на продукт": "https://online.metro-cc.ru/products/20shth15g-chaynyy-nap-richard-immune-paketirovannyy",
         "актуальная цена": "99.9",
         "старая цена": "113",
         "артикул": "239377",
         "название": "Напиток чайный Richard Immune пакетированный (1.5г x 20шт), 30г",
         "бренд": "RICHARD"
+    },
+    {
+        "ссылка на продукт": "https://online.metro-cc.ru/products/chay-zelenyy-basilur-vintazhnye-tsvety-tropicheskaya-strast-listovoy-75g",
+        "актуальная цена": "199",
+        "старая цена": "319",
+        "артикул": "240183",
+        "название": "Чай зеленый Basilur Винтажные цветы Тропическая страсть листовой, 75г",
+        "бренд": "BASILUR"
     },
     {
         "ссылка на продукт": "https://online.metro-cc.ru/products/25h15g-tess-pleasure-paketirovannyj",
@@ -1526,14 +1502,6 @@
         "артикул": "468912",
         "название": "Чай Ahmad Tea English Breakfast черный (2г х 25 пак), 50г",
         "бренд": "AHMAD TEA"
-    },
-    {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/chay-chernyy-susan-tseylonskiy-krupnolistovoy-200g",
-        "актуальная цена": "289",
-        "старая цена": "359",
-        "артикул": "243564",
-        "название": "Чай черный Susan цейлонский крупнолистовой, 200г",
-        "бренд": "SUSAN"
     },
     {
         "ссылка на продукт": "https://online.metro-cc.ru/products/25shth15g-chay-chyornyy-akbar-lesnye-yagody-paketirovannyy",
@@ -1760,14 +1728,6 @@
         "бренд": "TESS"
     },
     {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/25shth2g-chay-zelenyy-niktea-molochnyy-ulun-paketirovannyy",
-        "актуальная цена": "159",
-        "старая цена": "без промо",
-        "артикул": "239219",
-        "название": "Чай зеленый Niktea Молочный улун пакетированный (2г x 25шт), 50г",
-        "бренд": "NIKTEA"
-    },
-    {
         "ссылка на продукт": "https://online.metro-cc.ru/products/100g-chaj-basilur-kitajskij-chaj-molochn-ulun",
         "актуальная цена": "349",
         "старая цена": "без промо",
@@ -1856,12 +1816,20 @@
         "бренд": "MAITRE DE THE"
     },
     {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/chay-chernyy-befruitbe-ananas-yabloko-myata-140g",
-        "актуальная цена": "669",
+        "ссылка на продукт": "https://online.metro-cc.ru/products/napitok-chaynyy-basilur-fruktovoe-vdohnovenie-tom-iv-assorti-2g-x-20sht-40g",
+        "актуальная цена": "199",
+        "старая цена": "299",
+        "артикул": "240186",
+        "название": "Напиток чайный Basilur Фруктовое вдохновение Том IV ассорти (2г x 20шт), 40г",
+        "бренд": "BASILUR"
+    },
+    {
+        "ссылка на продукт": "https://online.metro-cc.ru/products/250g-chay-chernyy-printsessa-nuri-vysokogornyy-granulirovannyy",
+        "актуальная цена": "219",
         "старая цена": "без промо",
-        "артикул": "239455",
-        "название": "Чай черный Befruitbe ананас-яблоко-мята, 140г",
-        "бренд": "BEFRUITBE"
+        "артикул": "228379",
+        "название": "Чай черный Принцесса Нури высокогорный гранулированный, 250г",
+        "бренд": "ПРИНЦЕССА НУРИ"
     },
     {
         "ссылка на продукт": "https://online.metro-cc.ru/products/zelenaya-panda-krasnyj-petuh-krupnyj-list-100-g",
@@ -1894,6 +1862,14 @@
         "артикул": "211512",
         "название": "RIOBA Чай зеленый классический (2г x 25шт), 50г",
         "бренд": "RIOBA"
+    },
+    {
+        "ссылка на продукт": "https://online.metro-cc.ru/products/25shth15g-chay-chernyy-ahmad-tea-malinovoe-lakomstvo",
+        "актуальная цена": "109",
+        "старая цена": "119",
+        "артикул": "244037",
+        "название": "Чай черный Ahmad Tea Малиновое лакомство (1.5г x 25шт), 37.5г",
+        "бренд": "AHMAD TEA"
     },
     {
         "ссылка на продукт": "https://online.metro-cc.ru/products/chay-chernyy-yantra-ceylon-zavtrak-2g-x-100sht-200g",
@@ -2104,6 +2080,14 @@
         "бренд": "AKBAR"
     },
     {
+        "ссылка на продукт": "https://online.metro-cc.ru/products/20h175g-chay-just-t-chyornyy-baby-its-cold-outside-pak",
+        "актуальная цена": "449",
+        "старая цена": "без промо",
+        "артикул": "208518",
+        "название": "Чай Just T черный Baby It's cold outside (1.75г x 20шт), 35г",
+        "бренд": "JUST T"
+    },
+    {
         "ссылка на продукт": "https://online.metro-cc.ru/products/25h2g-chay-rioba-chernyy-s-aromatom-limona",
         "актуальная цена": "114",
         "старая цена": "без промо",
@@ -2112,12 +2096,12 @@
         "бренд": "RIOBA"
     },
     {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/250g-chay-chernyy-printsessa-nuri-solntse-tseylona-listovoy",
+        "ссылка на продукт": "https://online.metro-cc.ru/products/tess-chernyj-shipovnik-yabloko-pleasure-200g",
         "актуальная цена": "329",
         "старая цена": "без промо",
-        "артикул": "228378",
-        "название": "Чай черный Принцесса Нури Солнце цейлона листовой, 250г",
-        "бренд": "ПРИНЦЕССА НУРИ"
+        "артикул": "457296",
+        "название": "Чай Tess Pleasure с шиповником и яблоком черный, 200г",
+        "бренд": "TESS"
     },
     {
         "ссылка на продукт": "https://online.metro-cc.ru/products/20h1g-chay-just-t-zelenyy-unforget-moroccan-mint-pak",
@@ -2240,14 +2224,6 @@
         "бренд": "HERBARUS"
     },
     {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/100shth17g-chay-chyornyy-curtis-perfect-brunch-paketirovannyy",
-        "актуальная цена": "259",
-        "старая цена": "286",
-        "артикул": "239372",
-        "название": "Чай черный Curtis Perfect Brunch пакетированный (1.7г x 100шт), 170г",
-        "бренд": "CURTIS"
-    },
-    {
         "ссылка на продукт": "https://online.metro-cc.ru/products/kitajskij-zelenyj-nefritovyj-sad-green-panda-100g",
         "актуальная цена": "279",
         "старая цена": "без промо",
@@ -2272,22 +2248,6 @@
         "бренд": "AKBAR"
     },
     {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/30g-napitok-natures-own-factory-grech",
-        "актуальная цена": "229",
-        "старая цена": "266",
-        "артикул": "120571",
-        "название": "Напиток Nature's Own Factory Гречишный чайный (3г х 10шт), 30г",
-        "бренд": "NATURE'S OWN FACTORY"
-    },
-    {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/50g-sokochay-chernyy-befruitbe-imbirapelsinmalina",
-        "актуальная цена": "229",
-        "старая цена": "285",
-        "артикул": "227039",
-        "название": "Чай черный Befruitbe имбирь-апельсин-малина листовой, 50г",
-        "бренд": "BEFRUITBE"
-    },
-    {
         "ссылка на продукт": "https://online.metro-cc.ru/products/ahmad-tea-chernyj-klassicheskij-25h2g",
         "актуальная цена": "99.9",
         "старая цена": "без промо",
@@ -2296,20 +2256,20 @@
         "бренд": "AHMAD TEA"
     },
     {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/90g-chay-chyornyy-richard-bergamotlimon-listovoy",
-        "актуальная цена": "129",
-        "старая цена": "145",
-        "артикул": "239365",
-        "название": "Чай черный Richard Бергамот-лимон листовой, 90г",
-        "бренд": "RICHARD"
-    },
-    {
         "ссылка на продукт": "https://online.metro-cc.ru/products/250g-princessa-nuri-vysokogornyj-listovoj",
         "актуальная цена": "199",
         "старая цена": "без промо",
         "артикул": "122520",
         "название": "Чай Принцесса Нури Высокогорный черный, листовой, 250г",
         "бренд": "ПРИНЦЕССА НУРИ"
+    },
+    {
+        "ссылка на продукт": "https://online.metro-cc.ru/products/30g-pn-chay-hilltop-mini-sumochka",
+        "актуальная цена": "249",
+        "старая цена": "319",
+        "артикул": "208995",
+        "название": "Набор Hilltop подарочный чай мини-сумочка, 30г",
+        "бренд": "HILLTOP"
     },
     {
         "ссылка на продукт": "https://online.metro-cc.ru/products/25shth2g-chay-chyornyy-richard-royal-kenya-paketirovannyy",
@@ -2342,6 +2302,14 @@
         "артикул": "211781",
         "название": "RIOBA Чай черный с мятой (2г x 25шт), 50г",
         "бренд": "RIOBA"
+    },
+    {
+        "ссылка на продукт": "https://online.metro-cc.ru/products/napitok-chaynyy-basilur-fruktovoe-vdohnovenie-tom-iii-assorti-2g-x-20sht-40g",
+        "актуальная цена": "199",
+        "старая цена": "292",
+        "артикул": "240185",
+        "название": "Напиток чайный Basilur Фруктовое вдохновение Том III ассорти (2г x 20шт), 40г",
+        "бренд": "BASILUR"
     },
     {
         "ссылка на продукт": "https://online.metro-cc.ru/products/chay-chernyy-susan-tseylonskiy-s-bergamotom-krupnolistovoy-100g",
@@ -2382,14 +2350,6 @@
         "артикул": "469491",
         "название": "Чай Майский черный отборный (2г x 25шт), 50г",
         "бренд": "МАЙСКИЙ"
-    },
-    {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/chernyj-curtis-isabella-grape-piramidki-20x18g-505404",
-        "актуальная цена": "137.8",
-        "старая цена": "278",
-        "артикул": "505404",
-        "название": "Чай Curtis Isabella Grape черный пирамидки (1.8г х 20 пак), 36г x 2 шт",
-        "бренд": "CURTIS"
     },
     {
         "ссылка на продукт": "https://online.metro-cc.ru/products/25shth15g-chay-zelenyy-printsessa-yava-sochnyy-limon-v-paketikah",
@@ -2448,20 +2408,20 @@
         "бренд": "AHMAD TEA"
     },
     {
+        "ссылка на продукт": "https://online.metro-cc.ru/products/100g-chay-hilltop-tseylonskoe-utro-konvert",
+        "актуальная цена": "199",
+        "старая цена": "259",
+        "артикул": "138758",
+        "название": "Чай Hilltop Цейлонское утро конверт Праздничный вечер черный крупнолистовой, 100г",
+        "бренд": "HILLTOP"
+    },
+    {
         "ссылка на продукт": "https://online.metro-cc.ru/products/lisma-chernyj-krepkij-25h2g",
         "актуальная цена": "42.9",
         "старая цена": "48",
         "артикул": "469181",
         "название": "Чай Лисма черный крепкий (2г х 25шт), 50г",
         "бренд": "ЛИСМА"
-    },
-    {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/25shtx18g-chay-chernyy-tess-sunrise-v-paketikah",
-        "актуальная цена": "109",
-        "старая цена": "без промо",
-        "артикул": "228383",
-        "название": "Чай черный Tess Sunrise в пакетиках (1.8г x 25шт), 45г",
-        "бренд": "TESS"
     },
     {
         "ссылка на продукт": "https://online.metro-cc.ru/products/25shtx225g-chay-chernyy-tess-high-ceylon-v-paketikah",
@@ -2486,14 +2446,6 @@
         "артикул": "539335",
         "название": "Чай Richard Royal Ceylon черный байховый (2г х 25шт), 50г",
         "бренд": "RICHARD"
-    },
-    {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/100g-princessa-kandi-medium-listovoj",
-        "актуальная цена": "68.9",
-        "старая цена": "без промо",
-        "артикул": "122517",
-        "название": "Чай Принцесса Канди Медиум черный, листовой, 100г",
-        "бренд": "ПРИНЦЕССА КАНДИ"
     },
     {
         "ссылка на продукт": "https://online.metro-cc.ru/products/25h2g-princessa-nuri-otbornyj",
@@ -2552,30 +2504,6 @@
         "бренд": "МАЙСКИЙ"
     },
     {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/25shth2g-chay-chernyy-printsessa-kandi-tseylon-v-paketikah",
-        "актуальная цена": "64.9",
-        "старая цена": "без промо",
-        "артикул": "228381",
-        "название": "Чай черный Принцесса Канди цейлон в пакетиках (2г x 25шт), 50г",
-        "бренд": "ПРИНЦЕССА КАНДИ"
-    },
-    {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/richard-royal-ceylon-chernyj-25-2g",
-        "актуальная цена": "1198.8",
-        "старая цена": "без промо",
-        "артикул": "31881",
-        "название": "Чай Richard Royal Ceylon черный байховый (2г х 25 пак), 50г x 12 шт",
-        "бренд": "RICHARD"
-    },
-    {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/chay-chernyy-newby-masala-listovoy-100g",
-        "актуальная цена": "1099",
-        "старая цена": "без промо",
-        "артикул": "241446",
-        "название": "Чай черный Newby Масала листовой, 100г",
-        "бренд": "NEWBY"
-    },
-    {
         "ссылка на продукт": "https://online.metro-cc.ru/products/chay-zelenyy-newby-marokkanskiy-s-myatoy-listovoy-100g",
         "актуальная цена": "1049",
         "старая цена": "без промо",
@@ -2592,28 +2520,12 @@
         "бренд": "МАЙСКИЙ"
     },
     {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/majskij-chernyj-korona-rossijskoj-imperii-100-pak",
-        "актуальная цена": "1134",
+        "ссылка на продукт": "https://online.metro-cc.ru/products/chay-chernyy-newby-masala-listovoy-100g",
+        "актуальная цена": "1099",
         "старая цена": "без промо",
-        "артикул": "31877",
-        "название": "Чай Майский Корона Российской Империи черный цейлонский крупнолистовой (2г х 100пак), 200г x 6 шт",
-        "бренд": "МАЙСКИЙ"
-    },
-    {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/chay-chernyy-newby-imbir-paketirovannyy-2g-x-25sht-50g",
-        "актуальная цена": "979",
-        "старая цена": "без промо",
-        "артикул": "241450",
-        "название": "Чай черный Newby Имбирь пакетированный (2г x 25шт), 50г",
+        "артикул": "241446",
+        "название": "Чай черный Newby Масала листовой, 100г",
         "бренд": "NEWBY"
-    },
-    {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/richard-royl-ceylon-chernyj-bajhovyj-100-2g",
-        "актуальная цена": "1554",
-        "старая цена": "без промо",
-        "артикул": "31883",
-        "название": "Чай Richard Royal Ceylon черный байховый (2г х 100пак), 200г x 6 шт",
-        "бренд": "RICHARD"
     },
     {
         "ссылка на продукт": "https://online.metro-cc.ru/products/25shth2g-chay-chernyy-ahmad-tea-tseylonskiy",
@@ -2632,52 +2544,36 @@
         "бренд": "МАЙСКИЙ"
     },
     {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/richard-lord-grey-chernyj-bajhovyj-25-2g",
-        "актуальная цена": "1198.8",
-        "старая цена": "без промо",
-        "артикул": "31882",
-        "название": "Чай Richard Lord Grey черный байховый в саше (2г х 25 пак), 50г x 12 шт",
-        "бренд": "RICHARD"
+        "ссылка на продукт": "https://online.metro-cc.ru/products/100g-azerchaj-buket-chern-bajhovyj-kar-up",
+        "актуальная цена": "125",
+        "старая цена": "132",
+        "артикул": "120706",
+        "название": "Чай Азерчай Букет черный байховый, 100г",
+        "бренд": "АЗЕРЧАЙ"
     },
     {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/chernyj-princessa-nuri-vysokogornyj-50h2g-71827",
-        "актуальная цена": "357",
-        "старая цена": "без промо",
-        "артикул": "71827",
-        "название": "Чай Принцесса Нури высокогорный черный (50 пакетиков x 2г), 100г x 3 шт",
-        "бренд": "ПРИНЦЕССА НУРИ"
+        "ссылка на продукт": "https://online.metro-cc.ru/products/100g-chay-chernyy-richman-erl-grey-krupnyy-list",
+        "актуальная цена": "179",
+        "старая цена": "207",
+        "артикул": "225337",
+        "название": "Чай черный Richman Earl Grey крупный лист, 100г",
+        "бренд": "RICHMAN"
     },
     {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/25shth2g-chay-chernyy-gita-indiyskiy-v-paketikah",
-        "актуальная цена": "38.99",
-        "старая цена": "без промо",
-        "артикул": "228380",
-        "название": "Чай черный Гита индийский в пакетиках (2г x 25шт), 50г",
-        "бренд": "ГИТА"
+        "ссылка на продукт": "https://online.metro-cc.ru/products/100h2g-chay-azerchay-chyornyy-s-chabretsom-paketirovannyy",
+        "актуальная цена": "209",
+        "старая цена": "249",
+        "артикул": "208706",
+        "название": "Чай Азерчай черный с чабрецом (2г x 100шт), 200г",
+        "бренд": "АЗЕРЧАЙ"
     },
     {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/1672g-chay-greenfield-nabor-24-vida",
-        "актуальная цена": "749",
-        "старая цена": "без промо",
-        "артикул": "228229",
-        "название": "Чай Greenfield набор 24 вида, 167г",
-        "бренд": "GREENFIELD"
-    },
-    {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/tess-kenya-chernyj-bajhovyj-100-2g",
-        "актуальная цена": "249",
-        "старая цена": "359",
-        "артикул": "632941",
-        "название": "Чай Tess Kenya черный байховый (2г x 100шт), 200г",
-        "бренд": "TESS"
-    },
-    {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/maitre-assorti-exslusive-collection-12-vkusov-v-sashe-60-pak",
-        "актуальная цена": "369",
-        "старая цена": "без промо",
-        "артикул": "646226",
-        "название": "Чай Maitre de The ассорти Exсlusive Collection 12 вкусов, 120г",
-        "бренд": "MAITRE DE THE"
+        "ссылка на продукт": "https://online.metro-cc.ru/products/chay-chernyy-azerchay-buket-listovoy-1kg",
+        "актуальная цена": "1229",
+        "старая цена": "1",
+        "артикул": "239430",
+        "название": "Чай черный Азерчай букет листовой, 1кг",
+        "бренд": "АЗЕРЧАЙ"
     },
     {
         "ссылка на продукт": "https://online.metro-cc.ru/products/chay-chernyy-newby-tseylon-listovoy-100g",
@@ -2688,14 +2584,6 @@
         "бренд": "NEWBY"
     },
     {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/master-team-standart-704-chernyj-bajhovyj-cejlonskij-vysshego-sorta-800gr",
-        "актуальная цена": "959",
-        "старая цена": "без промо",
-        "артикул": "602050",
-        "название": "Чай Master Team черный байховый крупнолистовой, 800г",
-        "бренд": "MASTER TEAM"
-    },
-    {
         "ссылка на продукт": "https://online.metro-cc.ru/products/173g-chay-rioba-assorti-paketirovannyy-9-vkusov",
         "актуальная цена": "479",
         "старая цена": "без промо",
@@ -2704,28 +2592,36 @@
         "бренд": "RIOBA"
     },
     {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/705g-chay-richard-royal-gardens-assorti-40sht-paket",
-        "актуальная цена": "269",
-        "старая цена": "409",
-        "артикул": "239251",
-        "название": "Чай Richard Royal Gardens ассорти 40шт, 70.5г",
-        "бренд": "RICHARD"
+        "ссылка на продукт": "https://online.metro-cc.ru/products/majskij-chernyj-korona-rossijskoj-imperii-100-pak-395514",
+        "актуальная цена": "189",
+        "старая цена": "226",
+        "артикул": "395514",
+        "название": "Чай Майский Корона Российской Империи черный цейлонский крупнолистовой (2г х 100 шт), 200г",
+        "бренд": "МАЙСКИЙ"
     },
     {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/100g-chyornyj-drakon-molochnyj-ulun",
-        "актуальная цена": "244",
+        "ссылка на продукт": "https://online.metro-cc.ru/products/tess-assorti-iz-12-vkusov-v-kartonnoj-korobke-v-sashe-60-pak",
+        "актуальная цена": "519",
         "старая цена": "без промо",
-        "артикул": "121855",
-        "название": "Чай Чёрный дракон молочный улун, 100г",
-        "бренд": "ЧЁРНЫЙ ДРАКОН"
+        "артикул": "566113",
+        "название": "Чай Tess ассорти из 12 вкусов 60шт, 102г",
+        "бренд": "TESS"
     },
     {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/chay-zelenyy-basilur-vintazhnye-tsvety-tropicheskaya-strast-listovoy-75g",
-        "актуальная цена": "199",
-        "старая цена": "319",
-        "артикул": "240183",
-        "название": "Чай зеленый Basilur Винтажные цветы Тропическая страсть листовой, 75г",
-        "бренд": "BASILUR"
+        "ссылка на продукт": "https://online.metro-cc.ru/products/25shth15g-chay-chyornyy-curtis-tender-moments-paketirovannyy",
+        "актуальная цена": "79.9",
+        "старая цена": "99",
+        "артикул": "239371",
+        "название": "Чай черный Curtis Tender Moments пакетированный (1.5г x 25шт), 37.5г",
+        "бренд": "CURTIS"
+    },
+    {
+        "ссылка на продукт": "https://online.metro-cc.ru/products/100shth15g-chay-chyornyy-curtis-tender-moments-paketirovannyy",
+        "актуальная цена": "259",
+        "старая цена": "289",
+        "артикул": "239374",
+        "название": "Чай черный Curtis Tender Moments пакетированный (1.5г x 100шт), 150г",
+        "бренд": "CURTIS"
     },
     {
         "ссылка на продукт": "https://online.metro-cc.ru/products/500g-chay-chernyy-ahmad-tea-erl-grey-listovoy",
@@ -2733,14 +2629,6 @@
         "старая цена": "без промо",
         "артикул": "244051",
         "название": "Чай черный Ahmad Tea Earl Grey листовой, 500г",
-        "бренд": "AHMAD TEA"
-    },
-    {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/40pak-chaj-ahmad-tea-kollekciya-8-vkusov",
-        "актуальная цена": "269",
-        "старая цена": "409",
-        "артикул": "124922",
-        "название": "Чайное Ассорти Ahmad Tea Collection 8 вкусов 40шт, 71г",
         "бренд": "AHMAD TEA"
     },
     {
@@ -2752,27 +2640,19 @@
         "бренд": "NEWBY"
     },
     {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/napitok-chaynyy-basilur-fruktovoe-vdohnovenie-tom-iv-assorti-2g-x-20sht-40g",
-        "актуальная цена": "199",
-        "старая цена": "299",
-        "артикул": "240186",
-        "название": "Напиток чайный Basilur Фруктовое вдохновение Том IV ассорти (2г x 20шт), 40г",
-        "бренд": "BASILUR"
-    },
-    {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/250g-chay-chernyy-printsessa-nuri-vysokogornyy-granulirovannyy",
-        "актуальная цена": "219",
+        "ссылка на продукт": "https://online.metro-cc.ru/products/25shth2g-chay-zelenyy-niktea-molochnyy-ulun-paketirovannyy",
+        "актуальная цена": "159",
         "старая цена": "без промо",
-        "артикул": "228379",
-        "название": "Чай черный Принцесса Нури высокогорный гранулированный, 250г",
-        "бренд": "ПРИНЦЕССА НУРИ"
+        "артикул": "239219",
+        "название": "Чай зеленый Niktea Молочный улун пакетированный (2г x 25шт), 50г",
+        "бренд": "NIKTEA"
     },
     {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/chay-chernyy-befruitbe-ananas-vishnya-lemongrass-130g",
-        "актуальная цена": "499",
-        "старая цена": "639",
-        "артикул": "239695",
-        "название": "Чай черный Befruitbe ананас-вишня-лемонграсс, 130г",
+        "ссылка на продукт": "https://online.metro-cc.ru/products/chay-chernyy-befruitbe-ananas-yabloko-myata-140g",
+        "актуальная цена": "669",
+        "старая цена": "без промо",
+        "артикул": "239455",
+        "название": "Чай черный Befruitbe ананас-яблоко-мята, 140г",
         "бренд": "BEFRUITBE"
     },
     {
@@ -2784,28 +2664,12 @@
         "бренд": "BASILUR"
     },
     {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/chay-basilur-vintazhnye-tsvety-assorti-15g-x-40sht-60g",
-        "актуальная цена": "399",
-        "старая цена": "499",
-        "артикул": "240182",
-        "название": "Чай Basilur Винтажные цветы ассорти (1.5г x 40шт), 60г",
-        "бренд": "BASILUR"
-    },
-    {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/20h175g-chay-just-t-chyornyy-baby-its-cold-outside-pak",
-        "актуальная цена": "449",
-        "старая цена": "без промо",
-        "артикул": "208518",
-        "название": "Чай Just T черный Baby It's cold outside (1.75г x 20шт), 35г",
-        "бренд": "JUST T"
-    },
-    {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/tess-chernyj-shipovnik-yabloko-pleasure-200g",
+        "ссылка на продукт": "https://online.metro-cc.ru/products/250g-chay-chernyy-printsessa-nuri-solntse-tseylona-listovoy",
         "актуальная цена": "329",
         "старая цена": "без промо",
-        "артикул": "457296",
-        "название": "Чай Tess Pleasure с шиповником и яблоком черный, 200г",
-        "бренд": "TESS"
+        "артикул": "228378",
+        "название": "Чай черный Принцесса Нури Солнце цейлона листовой, 250г",
+        "бренд": "ПРИНЦЕССА НУРИ"
     },
     {
         "ссылка на продукт": "https://online.metro-cc.ru/products/20shth18g-chay-chernyy-ahmad-tea-erl-grey-bez-kofeina",
@@ -2824,20 +2688,28 @@
         "бренд": "AHMAD TEA"
     },
     {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/30g-pn-chay-hilltop-mini-sumochka",
-        "актуальная цена": "249",
-        "старая цена": "319",
-        "артикул": "208995",
-        "название": "Набор Hilltop подарочный чай мини-сумочка, 30г",
-        "бренд": "HILLTOP"
+        "ссылка на продукт": "https://online.metro-cc.ru/products/30g-napitok-natures-own-factory-grech",
+        "актуальная цена": "229",
+        "старая цена": "266",
+        "артикул": "120571",
+        "название": "Напиток Nature's Own Factory Гречишный чайный (3г х 10шт), 30г",
+        "бренд": "NATURE'S OWN FACTORY"
     },
     {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/napitok-chaynyy-basilur-fruktovoe-vdohnovenie-tom-iii-assorti-2g-x-20sht-40g",
-        "актуальная цена": "199",
-        "старая цена": "292",
-        "артикул": "240185",
-        "название": "Напиток чайный Basilur Фруктовое вдохновение Том III ассорти (2г x 20шт), 40г",
-        "бренд": "BASILUR"
+        "ссылка на продукт": "https://online.metro-cc.ru/products/90g-chay-chyornyy-richard-bergamotlimon-listovoy",
+        "актуальная цена": "129",
+        "старая цена": "145",
+        "артикул": "239365",
+        "название": "Чай черный Richard Бергамот-лимон листовой, 90г",
+        "бренд": "RICHARD"
+    },
+    {
+        "ссылка на продукт": "https://online.metro-cc.ru/products/chernyj-curtis-isabella-grape-piramidki-20x18g-505404",
+        "актуальная цена": "137.8",
+        "старая цена": "278",
+        "артикул": "505404",
+        "название": "Чай Curtis Isabella Grape черный пирамидки (1.8г х 20 пак), 36г x 2 шт",
+        "бренд": "CURTIS"
     },
     {
         "ссылка на продукт": "https://online.metro-cc.ru/products/20shth2g-chay-chernyy-ahmad-tea-bez-kofeina",
@@ -2848,12 +2720,44 @@
         "бренд": "AHMAD TEA"
     },
     {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/100g-chay-hilltop-tseylonskoe-utro-konvert",
-        "актуальная цена": "199",
-        "старая цена": "259",
-        "артикул": "138758",
-        "название": "Чай Hilltop Цейлонское утро конверт Праздничный вечер черный крупнолистовой, 100г",
-        "бренд": "HILLTOP"
+        "ссылка на продукт": "https://online.metro-cc.ru/products/25shtx18g-chay-chernyy-tess-sunrise-v-paketikah",
+        "актуальная цена": "109",
+        "старая цена": "без промо",
+        "артикул": "228383",
+        "название": "Чай черный Tess Sunrise в пакетиках (1.8г x 25шт), 45г",
+        "бренд": "TESS"
+    },
+    {
+        "ссылка на продукт": "https://online.metro-cc.ru/products/100g-princessa-kandi-medium-listovoj",
+        "актуальная цена": "68.9",
+        "старая цена": "без промо",
+        "артикул": "122517",
+        "название": "Чай Принцесса Канди Медиум черный, листовой, 100г",
+        "бренд": "ПРИНЦЕССА КАНДИ"
+    },
+    {
+        "ссылка на продукт": "https://online.metro-cc.ru/products/25shth2g-chay-chernyy-printsessa-kandi-tseylon-v-paketikah",
+        "актуальная цена": "64.9",
+        "старая цена": "без промо",
+        "артикул": "228381",
+        "название": "Чай черный Принцесса Канди цейлон в пакетиках (2г x 25шт), 50г",
+        "бренд": "ПРИНЦЕССА КАНДИ"
+    },
+    {
+        "ссылка на продукт": "https://online.metro-cc.ru/products/greenfield-summer-bouquet-25h2g",
+        "актуальная цена": "218",
+        "старая цена": "без промо",
+        "артикул": "288622",
+        "название": "Чай Greenfield Summer Bouquet 25 пакетиков (2г x 25 пак), 50г х 2 шт",
+        "бренд": "GREENFIELD"
+    },
+    {
+        "ссылка на продукт": "https://online.metro-cc.ru/products/ahmad-cejlonskij-chernyj-200g",
+        "актуальная цена": "758",
+        "старая цена": "без промо",
+        "артикул": "439455",
+        "название": "Чай Ahmad Tea Ceylon Tea High Mountain черный листовой, 200г x 2 шт",
+        "бренд": "AHMAD TEA"
     },
     {
         "ссылка на продукт": "https://online.metro-cc.ru/products/300shth2g-chay-zelenyy-ahmad-tea-professional-zhasmin",
@@ -2880,6 +2784,14 @@
         "бренд": "AHMAD TEA"
     },
     {
+        "ссылка на продукт": "https://online.metro-cc.ru/products/chay-chernyy-newby-imbir-paketirovannyy-2g-x-25sht-50g",
+        "актуальная цена": "979",
+        "старая цена": "без промо",
+        "артикул": "241450",
+        "название": "Чай черный Newby Имбирь пакетированный (2г x 25шт), 50г",
+        "бренд": "NEWBY"
+    },
+    {
         "ссылка на продукт": "https://online.metro-cc.ru/products/ahmad-tea-chernyj-earl-grey-200g",
         "актуальная цена": "758",
         "старая цена": "без промо",
@@ -2896,28 +2808,12 @@
         "бренд": "BEFRUITBE"
     },
     {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/chay-newby-classic-selection-assorti-paketirovannyy-2g-x-48sht-96g",
-        "актуальная цена": "1429",
-        "старая цена": "без промо",
-        "артикул": "241441",
-        "название": "Чай Newby Classic Selection ассорти пакетированный (2г x 48шт), 96г",
-        "бренд": "NEWBY"
-    },
-    {
         "ссылка на продукт": "https://online.metro-cc.ru/products/300shth2g-chay-chernyy-ahmad-tea-professional-erl-grey",
         "актуальная цена": "1299",
         "старая цена": "без промо",
         "артикул": "244845",
         "название": "Чай черный Ahmad Tea Professional Эрл Грей (2г x 300шт), 600г",
         "бренд": "AHMAD TEA"
-    },
-    {
-        "ссылка на продукт": "https://online.metro-cc.ru/products/zelenyj-princessa-yava-25h2g",
-        "актуальная цена": "129.8",
-        "старая цена": "без промо",
-        "артикул": "393903",
-        "название": "Чай Принцесса Ява Традиционный зеленый (2г х 25шт), 50г х 2 шт",
-        "бренд": "ПРИНЦЕССА ЯВА"
     },
     {
         "ссылка на продукт": "https://online.metro-cc.ru/products/zelenyj-ahmad-tea-s-zhasminom-listovoj-200-g",
@@ -2928,11 +2824,27 @@
         "бренд": "AHMAD TEA"
     },
     {
+        "ссылка на продукт": "https://online.metro-cc.ru/products/chay-newby-classic-selection-assorti-paketirovannyy-2g-x-48sht-96g",
+        "актуальная цена": "1429",
+        "старая цена": "без промо",
+        "артикул": "241441",
+        "название": "Чай Newby Classic Selection ассорти пакетированный (2г x 48шт), 96г",
+        "бренд": "NEWBY"
+    },
+    {
         "ссылка на продукт": "https://online.metro-cc.ru/products/300shth2g-chay-zelenyy-ahmad-tea-professional-kitayskiy",
         "актуальная цена": "1299",
         "старая цена": "без промо",
         "артикул": "244630",
         "название": "Чай зеленый Ahmad Tea Professional Китайский (2г x 300шт), 600г",
+        "бренд": "AHMAD TEA"
+    },
+    {
+        "ссылка на продукт": "https://online.metro-cc.ru/products/ahmad-tea-chernyj-bajhovyj-cejlonskij-orange-pekoe-200g-439378",
+        "актуальная цена": "758",
+        "старая цена": "без промо",
+        "артикул": "439378",
+        "название": "Чай Ahmad Tea Orange Pekoe черный листовой байховый цейлонский, 200г x 2 шт",
         "бренд": "AHMAD TEA"
     },
     {
@@ -2942,5 +2854,13 @@
         "артикул": "241451",
         "название": "Чай травяной Newby перечная мята (2г x 25шт), 50г",
         "бренд": "NEWBY"
+    },
+    {
+        "ссылка на продукт": "https://online.metro-cc.ru/products/25shth2g-chay-chernyy-gita-indiyskiy-v-paketikah",
+        "актуальная цена": "38.99",
+        "старая цена": "без промо",
+        "артикул": "228380",
+        "название": "Чай черный Гита индийский в пакетиках (2г x 25шт), 50г",
+        "бренд": "ГИТА"
     }
 ]

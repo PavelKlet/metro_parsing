@@ -1,11 +1,14 @@
+import time
 from pathlib import Path
 import json
 import re
 
-import requests
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 
 class MetroParsing:
@@ -13,12 +16,89 @@ class MetroParsing:
         self.base_url = "https://online.metro-cc.ru"
         self.url = url
 
-    @staticmethod
-    def get_html_content(url):
-        response = requests.get(url)
-        return response.text
+        chrome_options = Options()
+        # chrome_options.add_argument("--headless")
+        self.driver = webdriver.Chrome() #options=chrome_options)
+        self.wait = WebDriverWait(self.driver, 10)
 
-    def get_all_links(self, file_name: str):
+    def get_html_content(self, url):
+        self.driver.get(url)
+        self.wait.until(EC.presence_of_element_located((By.TAG_NAME, "html")))
+        html_content = self.driver.page_source
+        return html_content
+
+    def set_address(self, url, address, city):
+        self.driver.get(url)
+        WebDriverWait(self.driver, 10).until(
+            EC.presence_of_element_located((By.TAG_NAME, "html")))
+        address_element = self.wait.until(
+            EC.presence_of_element_located(
+                (By.CLASS_NAME, "header-address__receive-address")
+            )
+        )
+        address_element.click()
+        tab_element = self.wait.until(
+            EC.presence_of_element_located(
+                (
+                    By.XPATH,
+                    '//*[@id="__layout"]/div/div/'
+                    'div[7]/div[2]/div/div[1]/div/div[1]/div/div[2]/div[2]',
+                )
+            )
+        )
+        tab_element.click()
+        change_element = self.wait.until(
+            EC.presence_of_element_located(
+                (
+                    By.CSS_SELECTOR,
+                    "#__layout > div > div > div."
+                    "modal-root.modal-root--active."
+                    "modal-root--active-transparent > div.fon.modal-component"
+                    " > div > div.modal__content > div > div.delivery__left >"
+                    " div > div.pickup-content > div.pickup-content__city "
+                    "> span",
+                )
+            )
+        )
+        change_element.click()
+        input_element = self.wait.until(
+            EC.presence_of_element_located(
+                (
+                    (
+                        By.CSS_SELECTOR,
+                        "#__layout > div > div > div.modal-root.modal-root--"
+                        "active.modal-root--active-transparent > div.fon.modal"
+                        "-component > div > div"
+                        ".modal__content > div > div.deli"
+                        "very__left > div > div.pickup-content > div.pickup-co"
+                        "ntent__city > div.fon.modal-component > div > div.mod"
+                        "al__content.modal__content_pt > div > div.modal-city_"
+                        "_top > div.base-input.style--popup-change-tradecenter"
+                        ".has-error-icon > div > div > input",
+                    )
+                )
+            )
+        )
+        input_element.clear()
+        input_element.send_keys(city)
+        window_element = self.wait.until(EC.presence_of_element_located(
+            (By.XPATH, '//*[@id="__layout"]/div/div/div[7]/'
+                       'div[2]/div/div[1]/div/div[1]/div/div[3]'
+                       '/div[1]/div[2]/div/div[1]/div/div[2]/div')))
+        window_element.click()
+        address_element = self.wait.until(EC.presence_of_element_located(
+            (By.XPATH, f"//*[contains(text(), '{address}')]")))
+        address_element.click()
+        button_element = self.wait.until(
+            EC.presence_of_element_located((
+                By.CSS_SELECTOR,
+                "button.simple-button.reset-button.delivery__"
+                "btn-apply.style--blue.is-full-width")))
+        button_element.click()
+        time.sleep(5)
+
+    def get_all_links(self, file_name: str, address: str, city: str):
+        self.set_address(self.url, address, city)
         all_links = []
         page = 1
 
@@ -35,29 +115,27 @@ class MetroParsing:
 
             for element in link_elements:
                 link = element["href"]
+                print(link)
                 all_links.append(link)
 
             page += 1
         base_directory = Path(__file__).parent.parent
+        print(len(all_links))
         with open(f"{base_directory}/files/{file_name}", "w") as file:
             json.dump({"links": all_links}, file, indent=4)
 
         return all_links
 
     def get_info(self, urls):
-        chrome_options = Options()
-        chrome_options.add_argument("--headless")
-        driver = webdriver.Chrome(options=chrome_options)
-        driver.implicitly_wait(10)
 
         try:
             product_info_list = []
 
             for url in urls:
                 full_url = f"{self.base_url}{url}"
-                driver.get(full_url)
+                self.driver.get(full_url)
 
-                html = driver.page_source
+                html = self.driver.page_source
 
                 soup = BeautifulSoup(html, "html.parser")
 
@@ -104,9 +182,8 @@ class MetroParsing:
 
                 product_info_list.append(product_info)
                 print(product_info)
+            print(len(product_info_list))
             return product_info_list
 
         finally:
-            driver.quit()
-
-
+            self.driver.quit()
